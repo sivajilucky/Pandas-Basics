@@ -1,2 +1,2 @@
-# Pandas-Basics Learn with Examples
+# Pandas-Basics From Basics
 Learn Pandas From Basics
