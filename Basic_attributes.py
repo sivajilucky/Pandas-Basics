@@ -14,7 +14,7 @@ print(df.head())#it is used to give some initial rows
 print(df.head(3))#it is used to give initial 3 rows
 print(df.tail())#it is used to print last five rows
 #you can also use indexing and slicing to print rows and columns
-print(df[0:2])
+print(df[0:3])
 #if you want to print columns
 print(df.columns)
 #if you want to individual column means simply
